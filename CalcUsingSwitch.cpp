@@ -36,7 +36,7 @@ main()
     else if(dec1=='/')
     {
         if(var2 == 0)
-                cout<<"You can't divide by 0";
+                cout<<"You can't divide by 0"; 
             else
                 cout<<var1<<"/"<<var2<<" "<<"="<<" "<<(var1/var2)<<endl;
     }
