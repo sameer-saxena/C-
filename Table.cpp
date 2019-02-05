@@ -12,4 +12,4 @@ void main()
 		cout<<a<<"*"<<b<<"="<<c<<endl;
 		}
 getch();
-}
+} 
