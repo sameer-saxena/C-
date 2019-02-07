@@ -37,4 +37,4 @@ void main()
 				cout<<endl;
 			}
 	getch();
-}
+} 
