@@ -15,4 +15,4 @@ cout<<"Multiplication is:"<<e<<endl;
 f=a/b;
 cout<<"Division is:"<<f;
 getch();
-}
+} 
