@@ -10,4 +10,4 @@ void main()
 		cout<<c<<endl;
 	}
 getch();
-}
+} 
