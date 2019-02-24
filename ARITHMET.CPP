@@ -16,3 +16,4 @@ f=a/b;
 cout<<"Division is:"<<f;
 getch();
 } 
+ 
