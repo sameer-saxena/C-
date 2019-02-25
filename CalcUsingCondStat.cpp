@@ -49,5 +49,5 @@ main()
         if(dec2=='y'|| dec2=='Y')
             goto beginning;
         else
-            cout<<"Have a nice day Hooman!"<<endl;
+            cout<<"Have a nice day Hooman!"<<endl; 
 }
