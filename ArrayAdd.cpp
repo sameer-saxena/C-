@@ -16,3 +16,4 @@ void main()
 	cout<<"Addition is:"<<add;
 	getch();
 } 
+ 
