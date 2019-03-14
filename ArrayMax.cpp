@@ -19,4 +19,3 @@ void main()
 	cout<<max;
 	getch();
 } 
- 
