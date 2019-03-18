@@ -51,3 +51,4 @@ main()
         else
             cout<<"Have a nice day Hooman!"<<endl; 
 }
+
