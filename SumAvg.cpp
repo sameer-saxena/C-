@@ -12,4 +12,5 @@ void main()
 	cout<<"Sum is"<<s<<endl;
 	cout<<"Average is"<<a;
 getch();
-}
+} 
+  
