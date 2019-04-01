@@ -13,3 +13,4 @@ void main()
 	cout<<a<<endl;
 getch();
 }
+  
